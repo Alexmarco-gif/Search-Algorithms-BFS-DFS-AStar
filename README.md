@@ -63,10 +63,9 @@ You need **Python 3.x** installed on your system. No external libraries are stri
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/Maze-Search-Algorithms-BFS-DFS-AStar.git](https://github.com/YourUsername/Maze-Search-Algorithms-BFS-DFS-AStar.git)
+    git clone [https://github.com/Alexmarco-gif/Search-Algorithms-BFS-DFS-A-.git](https://github.com/Alexmarco-gif/Search-Algorithms-BFS-DFS-A-.git)
     cd Maze-Search-Algorithms-BFS-DFS-AStar
     ```
-    *(**Note:** Remember to replace `YourUsername` and the repo name if necessary.)*
 
 2.  Run the main script:
     ```bash
